@@ -1,0 +1,6 @@
+     1                                  bits 64
+     2                                  
+     3                                  global assembly
+     4                                  assembly:
+     5 00000000 B809030000                  mov eax, 777
+     6 00000005 C3                          ret
